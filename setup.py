@@ -13,7 +13,7 @@ VERSION = imp.load_source("", "nwb_data_validator/version.py").__version__
 
 setup(
     name="nwb-data-validator",
-    author="Anil Tuncel",
+    author="BlueBrain Project, EPFL",
     version=VERSION,
     description="Quality control for the IGOR to NWB data conversion",
     url="https://github.com/BlueBrain/lnmc-nwb-conversion-validator",
