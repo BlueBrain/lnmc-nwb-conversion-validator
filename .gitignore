@@ -1,0 +1,14 @@
+*.pyc
+*.swp
+coverage.xml
+*.egg-info
+.coverage
+doc/build
+.tox
+.ipython
+.vscode
+.temp-igor
+reports
+.notebooks
+.debug
+build/
